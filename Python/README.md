@@ -1,6 +1,7 @@
 # Python Pre work
 
 ## Activity One Variables
+
 * Read through `variable.py` and fill in what you think each block of code will print.
 
 ## Activity Two for loops
